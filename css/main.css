@@ -1,0 +1,21 @@
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+
+p {
+
+    
+}
+
+
+#index {
+    border:1px solid #333;
+    font-family:sans-serif, Verdana;
+    width: 60%;
+    padding-left: 50px;
+}
